@@ -34,7 +34,7 @@ def update(board):
 
 
 def new_board():
-    """ This method updates the board game by the rules of the game. Do a single iteration.
+    """ This method creates a 50*50 sized Zero list.
             Input None.
             Output board - list of lists of zeros in the size of 50*50.
             """
